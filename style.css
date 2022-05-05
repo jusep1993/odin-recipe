@@ -1,0 +1,64 @@
+* {
+    background-color: #3A3845;
+}
+
+a{
+    background-color: #826F66;
+}
+
+
+#mainTitle{
+    background-color: #F7CCAC;
+    color: #3A3845;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.banner{
+    height: 80%;
+    width: 80%;
+}
+
+.title{
+    background-color: #C69B7B;
+    color: #3A3845;
+    font-weight: bold;
+}
+
+.description{
+    background-color: #826F66;
+    color: #3A3845;
+    font-size: 21px;
+}
+
+.img{
+    height: auto;
+    width: 75%;
+}
+
+.text {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+
+h3, h5{
+    background-color: #826F66;
+    color: #3A3845;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+    color: #F7CCAC;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #F7CCAC;
+}
+
+
